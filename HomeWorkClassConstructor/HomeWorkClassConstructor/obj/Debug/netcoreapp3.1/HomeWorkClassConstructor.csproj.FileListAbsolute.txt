@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\bin\Debug\netcoreapp3.1\HomeWorkClassConstructor.exe
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\bin\Debug\netcoreapp3.1\HomeWorkClassConstructor.deps.json
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\bin\Debug\netcoreapp3.1\HomeWorkClassConstructor.runtimeconfig.json
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\bin\Debug\netcoreapp3.1\HomeWorkClassConstructor.runtimeconfig.dev.json
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\bin\Debug\netcoreapp3.1\HomeWorkClassConstructor.dll
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\bin\Debug\netcoreapp3.1\HomeWorkClassConstructor.pdb
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\obj\Debug\netcoreapp3.1\HomeWorkClassConstructor.csproj.AssemblyReference.cache
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\obj\Debug\netcoreapp3.1\HomeWorkClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\obj\Debug\netcoreapp3.1\HomeWorkClassConstructor.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\obj\Debug\netcoreapp3.1\HomeWorkClassConstructor.AssemblyInfo.cs
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\obj\Debug\netcoreapp3.1\HomeWorkClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\obj\Debug\netcoreapp3.1\HomeWorkClassConstructor.dll
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\obj\Debug\netcoreapp3.1\HomeWorkClassConstructor.pdb
+C:\Users\abbas\source\repos\HomeWorkClassConstructor\HomeWorkClassConstructor\obj\Debug\netcoreapp3.1\HomeWorkClassConstructor.genruntimeconfig.cache
